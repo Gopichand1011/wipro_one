@@ -1,0 +1,7 @@
+create table studinfo(
+id int not null auto_increment primary key,
+name varchar(20),
+age int,
+city varchar(20),
+email varchar(30)
+);
