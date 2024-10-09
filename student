@@ -4,5 +4,6 @@ name varchar(20),
 age int,
 city varchar(20),
 email varchar(30),
-phone int
+phone int,
+address varchar(100)
 );
